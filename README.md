@@ -36,3 +36,4 @@ $ npm start
 | `npm run build`         | Build a optmized bundle for production on `dist/` folder |
 | `npm run lint`          | Run the linter on the `src/` folder                      |
 | `npm run lint -- --fix` | Fix some linter problems                                 |
+| `npm run coverage`      | Run code coverage test                                   |
