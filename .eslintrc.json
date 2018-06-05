@@ -13,7 +13,7 @@
     "react/jsx-filename-extension": 0,
     "id-length": 0,
     "indent": [
-      1,
+      "error",
       2
     ],
     "no-console": 0,
