@@ -6,7 +6,7 @@
   ],
   "parser": "babel-eslint",
   "env": {
-    "node": true,
+    "es6": true,
     "jest": true
   },
   "rules": {
@@ -21,7 +21,7 @@
       1,
       {
         "vars": "local",
-        "args": "none"
+        "args": "all"
       }
     ],
     "strict": 0
