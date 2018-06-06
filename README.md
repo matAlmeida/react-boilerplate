@@ -20,8 +20,8 @@ A `React` boilerplate using
 ## Instruction
 
 ```bash
-$ git clone https://github.com/matAlmeida/react-boilerplate.git <YourProjectName>
-$ cd <YourProjectName>
+$ git clone https://github.com/matAlmeida/react-boilerplate.git YourProjectName
+$ cd YourProjectName
 $ npm install
 $ npm start
 ```
